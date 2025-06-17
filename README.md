@@ -50,3 +50,4 @@ The backend processes the user request, communicates with the third-party API, p
 This project provides hands-on experience in **web service integration**, **API consumption**, and **data processing in Java**. It is ideal for students and developers looking to understand real-world applications of Java in fetching and presenting dynamic data. The combination of Java backend with a modern frontend interface showcases how full-stack applications are built using minimal but effective technologies.
 
 ---
+*OUTPUT* : ![Image](https://github.com/user-attachments/assets/a6201fbe-4a0d-4dc3-8240-ea39916773c5)
